@@ -1,0 +1,1 @@
+This html file was made following along with the curriculum outlined in The Odin Project. This "project" is for my own personal reference.
